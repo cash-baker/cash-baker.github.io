@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "E10: Javascript "
+title: "Javascript: Thoughts and Concerns"
 # All dates must be YYYY-MM-DD format!
 date: 2023-01-18
 published: true
