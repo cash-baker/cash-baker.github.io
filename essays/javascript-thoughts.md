@@ -10,7 +10,7 @@ labels:
   - Reflection
 ---
 
-## Jumping into Javascript 
+## Initial Thoughts on Javascript 
 Previously, after going through the personal struggles I endured learning Java for the first time, I was told Javascript would be a breeze in comparison, more intuitive, easier to work with overall. This formed the basis of my expectations for JS. Finally, after going through the Javascript courses via freecodecamp, I'm pleased with how pleasant working with Javascript is. Prior to this, I only had experience writing in Java and C, which was very cumbersome to work with, however some of my frustration could be attributed to my inexperience with programming when first learning Java. Overall, I think Javascript is a good programming language due to its simplicity, it feels very user-friendly so far. 
 
 ## Thoughts on the learning style
