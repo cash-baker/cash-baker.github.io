@@ -11,11 +11,10 @@ summary: "Produced music and helped co-develop Unity game"
 
 <img class="img-fluid" src="../img/unity-square.jpg">
 
-While attending high school, I served as a volunteer editor for Women In Need. WIN was a non-profit organization focused on empowering women who were victims of domestic abuse, homelessness, substance abuse and incarceration. WIN provided counseling and other services to aid in developing postive life skills.
+A close friend of mine mentioned to me that he was learning Unity and wanted to create a playable demo. The game was a first person action game, made to be a proof of concept of what we both could do in the Unity engine.
 
-When I joined the organization, I helped write and create newsletters that were emailed out to subscribers of the WIN website. Often, I would be given topics for articles so additional research could be conducted ahead of time, if needed. I would also coordinate with WIN's social media consultant and other members of WIN, to ensure my portion of the newsletter was provided in a timely fashion. 
+My friend spearheaded the project and I was initially brought in to produce songs for the demo. In addition, I provided feedback regarding specific game mechanics and in-game events. While the scope of the project was relatively small, it was still an enriching experience, for me personally. I had to coordinate with my friend over internet calls and learned the limitations/advantages that came with working exclusively over Skype. It was my first time seeing a video game developed in real time. It gave me a better sense of how developers/engineers work with artists. Lastly, it taught me how hard software development was and how much coordination is involved, even for something as small as creating a 3 minute video game demo.
 
-My time as an editor taught me the value of communication and maintaining transparency when working with other team members, especially when under tight deadlines and ensuring I managed my time effectively between high school and my job as editor.   
 
 <hr>
 
