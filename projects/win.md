@@ -9,7 +9,7 @@ labels:
 summary: "Served as volunteer editor for Women In Need, a non-profit organization based in Hawaii"
 ---
 
-<img class="img-fluid" src="../img/WIN_square.jpg">
+<img class="img-fluid" src="../img/win-header.jpg">
 
 While attending high school, I served as a volunteer editor for Women In Need. WIN was a non-profit organization focused on empowering women who were victims of domestic abuse, homelessness, substance abuse and incarceration. WIN provided counseling and other services to aid in developing postive life skills.
 
