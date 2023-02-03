@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/real-unity-square.png
+image: img/bank.jpg
 title: Bank Database Project
 date: 2012
 published: true
@@ -9,7 +9,7 @@ labels:
 summary: "Bank database written in Java "
 ---
 
-<img class="img-fluid" src="../img/unity-square.jpg">
+<img class="img-fluid" src="../img/bank.jpg">
 <hr>
 For ICS 211, I was tasked with developing a Bank database based in Java. This involved 3 elements: 
 (1) Creating a BankCustomer.Java file that would model a bank customer with several characteristics (i.e. name, account number)
