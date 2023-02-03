@@ -1,15 +1,15 @@
 ---
 layout: project
 type: project
-image: img/WIN_square.jpg
-title: Women In Need
-date: 2016
+image: img/unity-logo.png
+title: Unity Game Project
+date: 2012
 published: true
 labels:
-summary: "Served as volunteer editor for Women In Need, a non-profit organization based in Hawaii"
+summary: "Produced music and helped co-develop Unity game"
 ---
 
-<img class="img-fluid" src="../img/WIN_square.jpg">
+<img class="img-fluid" src="../img/unity-logo.png">
 
 While attending high school, I served as a volunteer editor for Women In Need. WIN was a non-profit organization focused on empowering women who were victims of domestic abuse, homelessness, substance abuse and incarceration. WIN provided counseling and other services to aid in developing postive life skills.
 
