@@ -9,7 +9,7 @@ labels:
 summary: "Produced music and helped co-develop Unity game"
 ---
 
-<img class="img-fluid" src="../img/unity-logo.png">
+<img class="img-fluid" src="../img/unity-square.jpg">
 
 While attending high school, I served as a volunteer editor for Women In Need. WIN was a non-profit organization focused on empowering women who were victims of domestic abuse, homelessness, substance abuse and incarceration. WIN provided counseling and other services to aid in developing postive life skills.
 
