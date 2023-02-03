@@ -22,11 +22,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "Java", "Javascript" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "Windows" ]
     }
   ],
   "education": [
@@ -34,7 +34,7 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2024)",
       "studyType": "B.A.",
-      "startDate": "2020-09-01",
+      "startDate": "2021-09-01",
       "endDate": "Present",
       "courses": [
       ]
@@ -42,27 +42,28 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Walgreens",
+      "position": "Customer Sales Associate",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2021-07-01",
+      "endDate": "2021-10-01",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Provided service to customers",
+        "Handled transactions",
+        "Kept store well merchandised and cleaned"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Foodland Hawaii",
+      "position": "Courtesy Clerk",
+      "website": "",
+      "startDate": "2019-04-01",
+      "endDate": "2019-11-01",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Handled payment transactions",
+        "Answered phone, responded to customer requests"
       ]
     }
   ],
@@ -93,7 +94,7 @@
       ]
     }
   ],
-  "awards": [
+   "awards": [
     {
       "title": "B+ Scholarship",
       "date": "2013-Present",
