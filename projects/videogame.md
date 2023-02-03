@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/unity-logo.png
+image: img/unity-square.jpg
 title: Unity Game Project
 date: 2012
 published: true
