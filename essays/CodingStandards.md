@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "What's The Deal with Standards?"
+title: "Folks, What's The Deal with Standards?"
 # All dates must be YYYY-MM-DD format!
 date: 2023-02-09
 published: true
