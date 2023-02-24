@@ -1,0 +1,100 @@
+{
+  "basics": {
+    "name": "Cash Baker",
+    "label": "Student",
+    "picture": "https://github.com/cash-baker.png",
+    "email": "cashbake@hawaii.edu",
+    "phone": "808-375-7885",
+    "website": "https:/cash-baker.github.io",
+    "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "location": { "address": "", "postalCode": "96786", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "cash-baker", "url": "http://github.com/cash-baker" },
+      { "network": "linkedin", "username": "cashbaker", "url": "http://www.linkedin.com/in/cash-baker" }
+    ]
+  },
+  "interests": [
+    { "name": "Software Engineering" },
+    { "name": "Artifical Intelligence" },
+    { "name": "Quantum Computing" },
+    { "name": "Cybersecurity" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "Java", "Javascript" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "Windows" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2024)",
+      "studyType": "B.A.",
+      "startDate": "2021-09-01",
+      "endDate": "Present",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Leeward Community College, Honolulu, HI",
+      "area": "Liberal Arts",
+      "studyType": "A.A.",
+      "startDate": "2017-09-01",
+      "endDate": "2021-01-15",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Walgreens",
+      "position": "Customer Sales Associate",
+      "website": "",
+      "startDate": "2021-07-01",
+      "endDate": "2021-10-01",
+      "summary": "",
+      "highlights": [
+        "Provided service to customers",
+        "Handled transactions",
+        "Kept store well merchandised and cleaned"
+      ]
+    },
+    {
+      "company": "Foodland Hawaii",
+      "position": "Courtesy Clerk",
+      "website": "",
+      "startDate": "2019-04-01",
+      "endDate": "2019-11-01",
+      "summary": "",
+      "highlights": [
+        "Handled payment transactions",
+        "Answered phone, responded to customer requests"
+      ]
+    }
+  ],
+  
+  "volunteer": [
+    {
+      "organization": "Coronacare Hawaii",
+      "website": "",
+      "position": "",
+      "startDate": "2021-02-01",
+      "endDate": "2021-04-01",
+      "summary": "Hauled groceries for mutual aid organization",
+      "highlights": [
+        "Traveled inter-island delivering groceries for families in-need during COVID-19 pandemic",
+        "Repeated across 4-5 separate occasions"
+      ]
+    } 
+  ],
+
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
