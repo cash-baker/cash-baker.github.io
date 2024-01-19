@@ -3,52 +3,25 @@ layout: essay
 type: essay
 title: "The difficult things will always be difficult"
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
-published: false
+date: 2024-01-18
+published: true
 labels:
   - Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
-
 *Difficulty: a thing that is hard to accomplish, deal with, or understand.*
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
+Software engineering, to me, has always conjured up a mix of emotions. I've always been fascinated with computers. However, it's been a field that I have always felt imtimidated by. I felt like an imposter, constantly comparing myself to other classmates, more seasoned developers that applied themselves. So why didn't I give up? 
 
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
+## Born into it
 
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
+I always knew I wanted a career involved in computers and software. My father loved tech and made a living selling Nokia cell phone assessories at the swap meet, and he passed down to me his love for tech. Even in the third grade, I knew I wanted to be a game designer 
+(although at 8 years old I admittedly had no idea what game designers even did). The underlying passion was always there, but for a while I didn't know a single programming language until I enrolled at LCC. Once I started learning my first languge and others after, I became hooked on the process. I fell in love with the simple process of seeing a problem and figuring out how to solve for a solution, trying to optimize it further. Maybe it's the same reason I adore puzzles, in my head programming was like a series of puzzles that could be solved in your own personalized way. I was (and still am) inexperienced, but the challenge appealed to me. The times where I'd be working on a program for days and it'd finally compile in the exact way you wanted it to were hugely gratifying, to say the least.
 
-Here's what I think: the difficult things will always be difficult.
+## What the future holds
 
-## In the context of programming
+As the years go on, it always seems like the limits keep being pushed of what software can do. The developments being made in AI, cyrptocurrency, cybersecurity, it was all so fascinating to me. I think another reason why I wanted a career in software engineering was because I wanted to be part of that world, perhaps even contribute to it. But I still lack much of any experience, which is what I hope to address in the future going forward. I never joined robotics or even any clubs for that matter, so I'm hoping to get more involved in extracirruclar activites that would enable me to meet more people and less afraid to come out of my shell. I also wanna work on my process for learning new concepts in general. Often I'd be studying a new language and I'd mindlessly spit out the solution, without taking the time to ask myself if I understand something enough or if I should simply spend more time on it. It's one thing to learn about a new concept, but actually internalizing it is something entirely different and makes life incredibly easier. 
 
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
+## You are your worst enemy 
 
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
-
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
-
-## In the context of engineering
-
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
-
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
-
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
-
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
+This really needs a seperate section to emphasize its importance, but the one skill I want to continue developing is being able to NOT compare myself to other people. Software engineering is a huge field with incredibly talented and clever folks, it can be easy to fall into the trap of putting yourself down because you know someone younger than you who can write a program faster or work more efficently. It goes without saying: the only person you should ever compare yourself to is your past self. It doesn't do any good to beat yourself up over mistakes or issues you may run into, and can be more detrimental than helpful. 
