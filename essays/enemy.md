@@ -8,8 +8,7 @@ published: true
 labels:
   - Engineering
 ---
-
- ## *"You're born into this, you are what you are"*
+## *"You're born into this, you are what you are"*
 
 I always knew I wanted a career involved in computers and software. My father loved tech and made a living selling Nokia cell phone accessories at the swap meet, and he passed down to me his love for tech. Even in the third grade, I knew I wanted to be a game designer (although 8-year-old me had no idea what game designers even did). The underlying passion was always there, but for a while, I didn't know a single programming language until I enrolled at LCC. Once I started learning my first language and others after, I became hooked on the process. I fell in love with the simple process of seeing a problem and figuring out how to solve it, trying to optimize it further. Maybe it's the same reason I adore puzzles; in my head, programming was like a series of puzzles that could be solved in your own personalized way. I was (and still am) inexperienced, but the challenge appealed to me. The times where I'd be working on a program for days, and it'd finally compile in the exact way you wanted it to, were hugely gratifying, to say the least.
 
