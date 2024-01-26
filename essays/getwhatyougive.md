@@ -11,7 +11,7 @@ labels:
   - StackOverflow
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/notsmart.png">
+<img class="img-fluid" src="../img/notsmart.png">
 
 
 At some point, every programmer has been in a position where they felt like they hit a brick wall in their code. They tried googling solutions but are left with more questions than answers. There's no shame in asking for help and asking questions yourself. Asking questions fosters a healthy learning environment and should always be encouraged. But as we'll see, the quality of a question greatly affects the quality of the answers you receive.   
