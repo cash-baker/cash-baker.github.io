@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/clubhublogo.png
+image: img/clubhub-25.png
 title: Club Hub Project
 date: 2023
 published: true
