@@ -13,8 +13,8 @@ labels:
   <img width="500px" class="img-fluid" src="../img/jsfiddle.png"> 
   <img width="500px" class="img-fluid" src="../img/intellij.png">
 </div>
-<i>JSFiddle (pictured left). The person she told you not to worry about (pictured right)</i>
-<br></br>
+<i>JSFiddle (pictured left). The person she told you not to worry about (pictured right)</i><br>
+<br>
 When I first took this class about a year ago, I remembered absolutely LOATHING JSFiddle. Unfortunately, those underlying feelings haven't changed. To me, JSFiddle feels like reconnecting with an old ex-partner. You think "hey, a lot of time has passed since we last talked, people can change". Then you spend a little more time with them and their old flaws seep through the cracks, just like old times. The sidebar in JSFiddle takes up practically half the page, its console implementation (still somehow in beta) made testing code a hassle, and UI elements were still as buggy as ever. For a free IDE to quickly test code, it's servicable at best, at least when it's not trying to get in your way. When we eventually made the switch to IntelliJ, it felt like a colossal weight off my shoulders. In comparison, the UI can be customized extensively and the application is nowhere near as buggy. It may not be the best IDE on the market, but it's reliable and intuitive. It doesn't feel like a liability.
 
 ## Don't forget to dot your i's and insert your newLines!
