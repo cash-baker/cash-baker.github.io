@@ -9,6 +9,7 @@ labels:
   - Engineering
   - Artificial Intelligence
 ---
+<img class="img-fluid" src="../img/AI.jpg">
 ### I. Introduction
 Software engineering is a field that can be very overwhelming to many students, myself included. As someone who grapples with their ADHD on a daily basis, I still struggle with wrapping my head around numerous concepts and digesting tons of information in a timely fashion. Supplementing my learning experience with AI has been able to help me learn more quickly and easily. The specific tools I used during this semester is ChatGPT (versions 3.5 & 4).
 
@@ -74,4 +75,4 @@ Many of the weaknesses that come with traditional teaching methods can be addres
 AI can be a great tool to personally tailor educational content for students with specified needs, freeing up time for teachers or TAs. AI could also be used for data analytics, identifying areas that students may need more support in.
 
 ### VIII. Conclusion:
-Being able to use AI this semester has, without a doubt, enhanced my learning experience in numerous ways. I can learn and digest the same amount of information, but in a way that takes less time and can work around my specific learning styles, all without needing to talk to another person and take up their time. It works best when it optimizes your learning style, rather than depend on it wholly. 
+Being able to use AI this semester has, without a doubt, enhanced my learning experience in numerous ways. I can learn and digest the same amount of information, but in a way that takes less time and can work around my specific learning styles, all without needing to talk to another person and take up their time. It works best when it optimizes your learning style, rather than depend on it wholly, so emphasizing this to students is my main suggestion for future courses.
