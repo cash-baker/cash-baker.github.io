@@ -9,9 +9,9 @@ labels:
 summary: "Web application to list and retrieve lost and found items at UH Manoa"
 ---
 <div class="text-center p-4">
-  <img width="200px" src="../img/itemdepot-homepage.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/M3-myitems.png" class="img-thumbnail" >
-  <img width="200px" src="../img/leaderboard.png" class="img-thumbnail" >
+  <img width="300px" src="../img/itemdepot-homepage.jpg" class="img-thumbnail" >
+  <img width="300px" src="../img/M3-myitems.png" class="img-thumbnail" >
+  <img width="300px" src="../img/leaderboard.png" class="img-thumbnail" >
 </div>
 
 
