@@ -8,8 +8,12 @@ published: true
 labels:
 summary: "Web application to list and retrieve lost and found items at UH Manoa"
 ---
-<img class="img-fluid" src="../img/itemdepot-homepage.jpg">
-<img class="img-fluid" src="../img/M3-myitems.png">
+<div class="text-center p-4">
+  <img width="200px" src="../img/itemdepot-homepage.jpg" class="img-thumbnail" >
+  <img width="200px" src="../img/M3-myitems.png" class="img-thumbnail" >
+  <img width="200px" src="../img/leaderboard.png" class="img-thumbnail" >
+</div>
+
 
 [Project Repository](https://github.com/item-depot/item-depot) <br>
 [GitHub Homepage](https://item-depot.github.io/) 
