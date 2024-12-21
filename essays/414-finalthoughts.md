@@ -9,9 +9,10 @@ labels:
   - Technical Essay
   - Reflection
 ---
-For the uninitiated, ICS 414 (Software Engineering II) builds upon ICS 314 but focuses on one major project that teams work on throughout the semester. While 314 was challenging at times, I loved how it pushed me to become a better developer, which is partly why I enrolled in 414 the following semester. Our team's mission was to create a Meteor-based application for financial projections, using calculations provided by our client. 
 
-<img class="img-fluid" src="../img/414/414-landing.png">
+<img class="img-fluid" src="../img/414/414-landing.png" style="max-width:100%; display:block;margin:0 auto;">
+<br/>
+For the uninitiated, ICS 414 (Software Engineering II) builds upon ICS 314 but focuses on one major project that teams work on throughout the semester. While 314 was challenging at times, I loved how it pushed me to become a better developer, which is partly why I enrolled in 414 the following semester. Our team's mission was to create a Meteor-based application for financial projections, using calculations provided by our client. 
 
 ## Stepping Up
 I was mostly responsible with writing Initially, both my teammates and I struggled to understand the client's specific requirements. We had to review the client-provided documents and spreadsheets multiple times to grasp the project's goals and scope. During this period, I realized I needed to take on a larger project management role, despite my limited experience. This wasn't assigned to me, nor was it something I actively sought. However, it became evident that to meet our milestone deadlines, we needed to break down the project into manageable components that would allow all team members to contribute effectively.
